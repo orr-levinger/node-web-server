@@ -2,3 +2,9 @@
 node_modules/
 server.log
 yarn.lock
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-web-server.iml
+.idea/watcherTasks.xml
+.idea/workspace.xml
