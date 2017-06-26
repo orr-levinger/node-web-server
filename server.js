@@ -42,6 +42,11 @@ app.get('/about',(req,res)=>{
     })
 });
 
+app.get('/shop',(req,res)=>{
+    res.render("shop.hbs",{
+        pageTitle:'Shop',
+    })
+});
 
 
 app.listen(port,()=>{
